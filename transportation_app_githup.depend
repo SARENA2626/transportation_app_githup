@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1724018966 source:c:\users\lenovo\downloads\transportation_app_githup\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<vector>
+	<ctime>
+	<cmath>
+
